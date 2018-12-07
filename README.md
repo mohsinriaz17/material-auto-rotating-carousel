@@ -11,8 +11,10 @@ This project implements such a carousel for [Material-UI](https://material-ui-ne
 
 ## Installation
 ```shell
-npm i --save https://github.com/mohsinriaz17/material-auto-rotating-carousel
+npm i --save @material-ui/core
+npm i --save @material-ui/icons
 npm i --save react-swipeable-views
+npm i --save https://github.com/mohsinriaz17/material-auto-rotating-carousel
 ```
 
 **Note:** This is the version for Material-UI 1.0.0 or later. If you are using Material-UI 1.0.0-beta, you should update to the latest version. If you are still using Material-UI 0.x, you can use our [legacy version][legacy].
